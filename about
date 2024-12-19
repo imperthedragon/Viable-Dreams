@@ -1,0 +1,41 @@
+/* about.html */
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Viable Dreams</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="games.html">Games</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="privacy.html">Privacy Policy</a></li>
+        </ul>
+    </nav>
+
+    <div class="header">
+        <h1>About Viable Dreams</h1>
+    </div>
+    
+    <div class="content">
+        <h2>Our Story</h2>
+        <p>Founded in 2024, Viable Dreams is an independent game development studio focused on creating innovative mobile gaming experiences. Our team combines creativity, technical expertise, and a passion for gaming to develop unique and engaging titles.</p>
+        
+        <h2>Our Team</h2>
+        <p>We are a dedicated team of developers, artists, and designers working together to bring our creative visions to life.</p>
+        
+        <h2>Our Mission</h2>
+        <p>To create memorable gaming experiences that push the boundaries of mobile gaming while maintaining the highest standards of quality and player engagement.</p>
+    </div>
+
+    <footer class="footer">
+        <p>© 2024 Viable Dreams. All rights reserved.</p>
+        <p><a href="privacy.html" style="color: white;">Privacy Policy</a> | <a href="contact.html" style="color: white;">Contact Us</a></p>
+    </footer>
+</body>
+</html>
