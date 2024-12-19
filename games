@@ -1,0 +1,39 @@
+/* games.html */
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Games - Viable Dreams</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="games.html">Games</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="privacy.html">Privacy Policy</a></li>
+        </ul>
+    </nav>
+
+    <div class="header">
+        <h1>Our Games</h1>
+    </div>
+    
+    <div class="content">
+        <h2>Upcoming Release</h2>
+        <div class="game-info">
+            <h3>[Your Game Name]</h3>
+            <p>Coming Soon to iOS</p>
+            <p>[Brief description of your game and its key features]</p>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>© 2024 Viable Dreams. All rights reserved.</p>
+        <p><a href="privacy.html" style="color: white;">Privacy Policy</a> | <a href="contact.html" style="color: white;">Contact Us</a></p>
+    </footer>
+</body>
+</html>
