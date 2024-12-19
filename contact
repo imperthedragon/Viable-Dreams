@@ -1,0 +1,49 @@
+/* contact.html */
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Viable Dreams</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="games.html">Games</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="privacy.html">Privacy Policy</a></li>
+        </ul>
+    </nav>
+
+    <div class="header">
+        <h1>Contact Us</h1>
+    </div>
+    
+    <div class="content">
+        <h2>Get in Touch</h2>
+        <p>We'd love to hear from you! Here's how you can reach us:</p>
+        
+        <h3>Email</h3>
+        <p>General Inquiries: [Your Email]</p>
+        <p>Support: [Support Email]</p>
+        
+        <h3>Business Address</h3>
+        <p>[Your Business Address]</p>
+        
+        <h3>Social Media</h3>
+        <p>Follow us on:</p>
+        <ul>
+            <li>Twitter: [@handle]</li>
+            <li>LinkedIn: [Company Page]</li>
+        </ul>
+    </div>
+
+    <footer class="footer">
+        <p>© 2024 Viable Dreams. All rights reserved.</p>
+        <p><a href="privacy.html" style="color: white;">Privacy Policy</a> | <a href="contact.html" style="color: white;">Contact Us</a></p>
+    </footer>
+</body>
+</html>
