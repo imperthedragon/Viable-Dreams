@@ -1,46 +1,39 @@
+/* index.html */
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Game Studio Name</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            max-width: 800px;
-            margin: 0 auto;
-        }
-        .header {
-            text-align: center;
-            padding: 40px 0;
-        }
-        .content {
-            padding: 20px;
-        }
-    </style>
+    <title>Viable Dreams - Game Development Studio</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <nav class="navbar">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="games.html">Games</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="privacy.html">Privacy Policy</a></li>
+        </ul>
+    </nav>
+
     <div class="header">
-        <h1>Your Game Studio Name</h1>
-        <p>Creating Amazing Gaming Experiences</p>
+        <h1>Viable Dreams</h1>
+        <p>Creating Immersive Gaming Experiences</p>
     </div>
     
     <div class="content">
-        <h2>About Us</h2>
-        <p>We are a game development studio focused on creating engaging mobile games.</p>
+        <h2>Welcome to Viable Dreams</h2>
+        <p>We are an indie game development studio passionate about creating engaging and innovative mobile games. Our focus is on delivering unique gaming experiences that captivate and inspire players.</p>
         
-        <h2>Our Upcoming Game</h2>
-        <p>[Game Name] - Coming Soon to iOS</p>
-        
-        <h2>Contact</h2>
-        <p>Email: contact@yourstudio.com</p>
-        
-        <footer>
-            <p>© 2024 Your Game Studio Name. All rights reserved.</p>
-        </footer>
+        <h2>Our Latest Project</h2>
+        <p>[Game Name] - An exciting new mobile adventure coming soon to iOS.</p>
     </div>
+
+    <footer class="footer">
+        <p>© 2024 Viable Dreams. All rights reserved.</p>
+        <p><a href="privacy.html" style="color: white;">Privacy Policy</a> | <a href="contact.html" style="color: white;">Contact Us</a></p>
+    </footer>
 </body>
 </html>
